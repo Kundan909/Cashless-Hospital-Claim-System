@@ -1,0 +1,12 @@
+# Ignore backup/temp/log files
+*.log
+*.bak
+*.tmp
+
+# Ignore IDE and system files
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore environment or config files
+*.env
